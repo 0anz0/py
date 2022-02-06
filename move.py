@@ -5,7 +5,7 @@ os.chdir('.\\test')
 dst = r'C:\Users\test\Desktop\python\test'
 #source = r'.\from_folder'
 
-
+#a
 #files = os.listdir(source)
 
 for i in range(5):
